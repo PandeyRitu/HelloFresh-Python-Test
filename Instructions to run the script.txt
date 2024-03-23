@@ -1,0 +1,3 @@
+mkdir C:\path\to\your\repository\recipes-etl
+Move-Item calculate_average_total_time.py C:\path\to\your\repository\recipes-etl\
+echo "# recipes-etl
